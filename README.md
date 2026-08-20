@@ -1,8 +1,7 @@
 # 3rd_imdc_lncc_d-fense_lncc_ARp26_chikungunya
-LNCC ARp26 chikungunya prediction model
+LNCC ARp26 CG Chikungunya prediction model
 
-
-Team and Contributors
+1. Team and Contributors
 
 D-FENSE
 
@@ -47,6 +46,14 @@ Main
          |_> plots
          
      |_> validation4  (see validation 1)
+     
+         |_> matlab
+         
+         |_> spreadsheets
+         
+         |_> plots
+         
+     |_> forecast27 (see validation 1)
      
          |_> matlab
          
