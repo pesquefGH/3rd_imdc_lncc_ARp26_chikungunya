@@ -1,5 +1,5 @@
 # 3rd_imdc_lncc_d-fense_lncc_ARp26_chikungunya
-LNCC ARp26 CG Chikungunya prediction model
+LNCC ARp26 CG Chikungunya prediction model 
 
 1. Team and Contributors
 
